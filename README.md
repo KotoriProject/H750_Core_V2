@@ -17,6 +17,9 @@ Onboard:
 - LSE
 - TLV75801P external Vcap LDO
 
+## about the mother board
+[ongoing...](https://github.com/KotoriProject/H750_Core_V2_motherBoard.git)
+
 ## EDA library(Powered by Kicad)
 
 [symbol,footprint,3Dstep](/eda_lib)
