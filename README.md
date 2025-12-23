@@ -1,5 +1,5 @@
 # Join us!🥰🥰🥰
- <img src="/assert/qqcode.jpg" width = "300" alt="qrcode" align=center />
+ <img src="/doc/qqcode.jpg" width = "300" alt="qrcode" align=center />
 
 # STM32H750XBH6 Core V2
 
